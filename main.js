@@ -31,7 +31,7 @@ let text_array = [
   ["P", "U", "B", "A", "L", "I", " "],
   ["S", "O", "U", "R", "A", "V", " "],
 ];
-let dy_ary_rnd = [0.05, 0.1, 0.2];
+let dy_ary_rnd = [0.05, 0.1, 0.2, 0.5];
 let ary = [];
 for (let i = 0; i < w_div + 1; i++) {
   ary[i] = {
